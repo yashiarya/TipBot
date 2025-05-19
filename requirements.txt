@@ -1,5 +1,4 @@
 discord.py
 flask
 logging
-os
 logging.handlers
